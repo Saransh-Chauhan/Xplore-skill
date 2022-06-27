@@ -791,3 +791,18 @@ hr {
 }
 
 /* Contact Us Section end */
+@media only screen and (max-width: 600px) {
+    .accordion{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .container{
+        height: max-content;
+    }
+    .accordion-img{
+        width: 200px;
+        height: 200px;
+    }
+  }
