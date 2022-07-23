@@ -1,3 +1,3 @@
-# CLICK HERE FOR FULL WEBSITE--https://saransh-chauhan.github.io/Xplore-skill/
+THIS WEBSITE WAS CREATED DURING MY INTERNSHIP @Myknot Services OPC Private Limited 
 
-*CHECK OUT MY GITHUB --  https://github.com/Saransh-Chauhan
+To view click here -- https://saransh-chauhan.github.io/Xplore-skill/
